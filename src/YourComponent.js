@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
-const ApiKey = "ApiKeyProvided"
+const ApiKey = "AIzaSyCVH8e45o3d-5qmykzdhGKd1-3xYua5D2A"
 
 
 // code used to get the lat and lng per address
@@ -125,12 +125,12 @@ var wholeDivStyle = {
 
 var mapDivStyle = {
   position: "relative",
-  height: '83vh',
+  height: '73vh',
 }
 
 var mapStyle = {
-  width: '80vw',
-  height: '80vh',
+  width: '70vw',
+  height: '70vh',
   border: 'blue',
   borderWidth: 2,
   borderStyle: 'solid',
