@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
-const ApiKey = "AIzaSyCVH8e45o3d-5qmykzdhGKd1-3xYua5D2A"
+const ApiKey = "API_KEY"
 
 
 // code used to get the lat and lng per address
